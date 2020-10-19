@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/aliwebproject/static/css/main.945de223.chunk.css",
+    "main.js": "/aliwebproject/static/js/main.4cca72ca.chunk.js",
+    "main.js.map": "/aliwebproject/static/js/main.4cca72ca.chunk.js.map",
+    "runtime-main.js": "/aliwebproject/static/js/runtime-main.48d7afab.js",
+    "runtime-main.js.map": "/aliwebproject/static/js/runtime-main.48d7afab.js.map",
+    "static/css/2.974c742c.chunk.css": "/aliwebproject/static/css/2.974c742c.chunk.css",
+    "static/js/2.38e4a974.chunk.js": "/aliwebproject/static/js/2.38e4a974.chunk.js",
+    "static/js/2.38e4a974.chunk.js.map": "/aliwebproject/static/js/2.38e4a974.chunk.js.map",
+    "index.html": "/aliwebproject/index.html",
+    "precache-manifest.ea960846b3605fb8e24f639af9abb35b.js": "/aliwebproject/precache-manifest.ea960846b3605fb8e24f639af9abb35b.js",
+    "service-worker.js": "/aliwebproject/service-worker.js",
+    "static/css/2.974c742c.chunk.css.map": "/aliwebproject/static/css/2.974c742c.chunk.css.map",
+    "static/css/main.945de223.chunk.css.map": "/aliwebproject/static/css/main.945de223.chunk.css.map",
+    "static/js/2.38e4a974.chunk.js.LICENSE.txt": "/aliwebproject/static/js/2.38e4a974.chunk.js.LICENSE.txt",
+    "static/media/android.jpg": "/aliwebproject/static/media/android.2b64a398.jpg",
+    "static/media/degital.jpg": "/aliwebproject/static/media/degital.178c4d24.jpg",
+    "static/media/images (1).jpg": "/aliwebproject/static/media/images (1).ce56e148.jpg",
+    "static/media/marketing.jpg": "/aliwebproject/static/media/marketing.a0b62667.jpg",
+    "static/media/software.jpg": "/aliwebproject/static/media/software.b9a80e1c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48d7afab.js",
+    "static/css/2.974c742c.chunk.css",
+    "static/js/2.38e4a974.chunk.js",
+    "static/css/main.945de223.chunk.css",
+    "static/js/main.4cca72ca.chunk.js"
+  ]
+}
